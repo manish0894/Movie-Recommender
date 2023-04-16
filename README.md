@@ -1,4 +1,4 @@
-# Movie-Recommender
+# Movie-Recommender-System
 
 A movie recommendtion system
 
